@@ -7,3 +7,5 @@ mod 'elastic-elastic_stack', '6.0.2'
 mod 'puppet-yum', '2.2.0'
 mod 'elastic-logstash', '6.0.2'
 mod 'puppetlabs-java', '2.4.0'
+mod 'joshsamuelson-git',
+  :git => 'https://github.com/joshsamuelson/joshsamuelson-elk.git'
